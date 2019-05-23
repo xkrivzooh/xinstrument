@@ -163,3 +163,5 @@ local.properties
 .scala_dependencies
 .worksheet
 
+.idea
+xinstrument.iml
